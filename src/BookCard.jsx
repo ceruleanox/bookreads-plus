@@ -15,7 +15,7 @@ const BookCard = ({
   // States
   const [modal, setModal] = useState(false);
   const toggle = () => setModal(!modal);
-
+  console.log(thumbnail)
   return (
         <Card style={{ width: '250px'}} className='m-auto'>
             <center>
