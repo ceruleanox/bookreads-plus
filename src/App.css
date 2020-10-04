@@ -24,3 +24,8 @@ body {
   width: 100%;
   z-index: 1;
 }
+
+.m-auto {
+  display: flex;
+  justify-content: center;
+}
